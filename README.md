@@ -1,4 +1,4 @@
-## Project Overview
+## Project Overview (2 versions: C++, Java)
 
 This project is a 2D virtual world simulator where, both animals and plants, coexist and interact in a simulated environment. The virtual world is a NxM grid where each cell can be occupied by one organism at a time. The organisms are categorized into animals and plants, each behaving according to its specific species. The actions in the simulator are done in turns, and the organisms' actions depend on their initiative and age. Organisms can move, breed, and collide based on their strengths, initiating fights or other interactions. 
 
